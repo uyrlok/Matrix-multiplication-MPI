@@ -1,0 +1,5 @@
+﻿  matrix_multiplication.cpp
+c:\users\murloc\source\repos\matrix_multiplication\matrix_multiplication\matrix_multiplication.cpp(67): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\murloc\source\repos\matrix_multiplication\matrix_multiplication\matrix_multiplication.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\murloc\source\repos\matrix_multiplication\matrix_multiplication\matrix_multiplication.cpp(102): warning C4101: num_workers: неиспользованная локальная переменная
+  matrix_multiplication.vcxproj -> C:\Users\Murloc\source\repos\matrix_multiplication\Debug\matrix_multiplication.exe

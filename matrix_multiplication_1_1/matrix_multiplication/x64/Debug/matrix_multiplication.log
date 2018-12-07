@@ -1,0 +1,5 @@
+﻿  matrix_multiplication.cpp
+c:\users\murloc\source\repos\matrix_multiplication_1_1\matrix_multiplication\matrix_multiplication.cpp(29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\murloc\source\repos\matrix_multiplication_1_1\matrix_multiplication\matrix_multiplication.cpp(67): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\murloc\source\repos\matrix_multiplication_1_1\matrix_multiplication\matrix_multiplication.cpp(105): warning C4101: num_workers: неиспользованная локальная переменная
+  matrix_multiplication.vcxproj -> C:\Users\Murloc\source\repos\matrix_multiplication_1_1\x64\Debug\matrix_multiplication.exe

@@ -1,0 +1,27 @@
+﻿  creatematrix.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: creatematrix.cpp: No such file or directory,
+  CreateMatrix1000x1000.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(1251): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2368): error C2598: тип компоновки должен определяться в глобальной области видимости
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2618): error C2598: тип компоновки должен определяться в глобальной области видимости
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2720): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2721): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2722): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2723): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2724): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2725): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2727): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2728): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2729): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2730): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2731): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2732): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2771): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2772): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2773): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(2774): error C2156: директива pragma должна находиться вне функции
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(16671): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(16671): error C2238: непредвиденные лексемы перед ";"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(16690): error C2059: синтаксическая ошибка: константа
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winnt.h(16690): error C2238: непредвиденные лексемы перед ";"
+  Создание кода...
